@@ -9,7 +9,6 @@ def compute_eps(A, x, b):
     r = A @ x - b
     return norm(r) / norm(b)
 
-
 def jacobi(A, b, x0, eps=1e-14):
     n = len(b)
     x = x0.copy()

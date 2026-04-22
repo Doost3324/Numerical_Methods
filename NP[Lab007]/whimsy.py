@@ -10,7 +10,7 @@ def generate_matrix(n):
 
     return A
 
-def generate_exact_solution(n, value=200.4):
+def generate_exact_solution(n, value=2.5):
     return np.full(n, value)
 
 def compute_b(A, x):
