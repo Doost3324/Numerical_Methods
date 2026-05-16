@@ -1,0 +1,20 @@
+Hooke-Jeeves Descent Trajectory
+===============================
+Total iterations required: 37
+
+Coordinates at each base point update:
+----------------------------------------
+Base Point  0: x1 = 1.20000, x2 = 1.50000
+Base Point  1: x1 = 1.32500, x2 = 1.50000
+Base Point  2: x1 = 1.26250, x2 = 1.56250
+Base Point  3: x1 = 1.24687, x2 = 1.56250
+Base Point  4: x1 = 1.25078, x2 = 1.56250
+Base Point  5: x1 = 1.24883, x2 = 1.56250
+Base Point  6: x1 = 1.24883, x2 = 1.56152
+Base Point  7: x1 = 1.24980, x2 = 1.56152
+Base Point  8: x1 = 1.24956, x2 = 1.56152
+Base Point  9: x1 = 1.24968, x2 = 1.56152
+Base Point 10: x1 = 1.24962, x2 = 1.56152
+Base Point 11: x1 = 1.24962, x2 = 1.56155
+----------------------------------------
+End of trajectory.
